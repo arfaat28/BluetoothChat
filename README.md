@@ -1,18 +1,11 @@
-Messaging or chating is a daily life thing.
-
-But to chat without internet connection can only be done through messaging.
-
-So this project is about conversing using bluetooth.
-
-It consists of Splash Screen.
-
-Onboarding Screen.
-
-And then the screen where available bluetooth devices is shown.
-
-After connecting to the other device using bluetooth we can chat with anyone within certain range.
-
-Here is a look at the application:
+- Messaging or chating is a daily life thing.
+- But to chat without internet connection can only be done through messaging.
+- So this project is about conversing using bluetooth.
+- It consists of Splash Screen.
+- Onboarding Screen.
+- And then the screen where available bluetooth devices is shown.
+- After connecting to the other device using bluetooth we can chat with anyone within certain range.
+- Here is a look at the application:
 
 ![image](https://user-images.githubusercontent.com/69072470/124424823-4f8d9600-dd85-11eb-8b50-1759d078c52d.png) 
 
